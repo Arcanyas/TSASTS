@@ -1,0 +1,16 @@
+exovenv/
+.myo-venv/
+__pycache__/
+*.pyc
+.DS_Store
+myoassist/logs/
+claude.md
+tsa.md
+observations/stability.md
+support_docs/rl.md
+ppo_v8/
+.my_venv/
+*.csv
+*logs
+myoassist
+*.gif
